@@ -4,8 +4,6 @@ My name is Vow. I'm a software engineer with a strong interest in game developme
 
 ---
 
-I maintain a [daily developer journal](https://github.com/VowSoftware/journal). A new entry is created each day that I learn something new, make progress on a project, or just want to spill some thoughts. Check it out for interesting and informative blog-style posts.
+I maintain a [technical journal](https://github.com/VowSoftware/journal). I write about my daily experiences as a software developer, make progress updates on my own projects, discuss topics I see floating around the Internet, reflect on past successes and failures, and instill new knowledge that I gain while making cool stuff.
 
 I create libraries for the Defold game engine, which I've been using since 2019. I also ocassionally contribute directly to the engine.
-
-* [Starly](https://github.com/VowSoftware/starly) is an orthographic camera library for Defold.
